@@ -1,7 +1,7 @@
 [![Header](https://github.com/kevinkenfack/KevinKenfack/blob/main/banner.png?raw=true "Header")](https://github.com/kevinkenfack)
 
 ## 👋 Hello! 
-Software engineer with over 4 years' experience. I've worked for innovative startups, large enterprise products and award-winning agencies. Familiar with remote and in-office roles. Always looking to take ownership of the project and deliver faster than expected. Comfortable with web development, and APIs.
+Software engineer with over 4+ years experience. I've worked for innovative startups, large enterprise products and award-winning agencies. Familiar with remote and in-office roles. Always looking to take ownership of the project and deliver faster than expected. Comfortable with web development, and APIs.
 
 ## 📚 Writing
 Besides developing, I also run a [Blog](https://blog.kevinkenfack.com).
