@@ -1,10 +1,10 @@
-[![Header](https://github.com/kevinkenfack/kevinkenfack/blob/master/banner.png?raw=true "Header")](https://github.com/kevinkenfack)
+[![Header](https://github.com/kevinkenfack/KevinKenfack/blob/main/banner.png?raw=true "Header")](https://github.com/kevinkenfack)
 
 ## 👋 Hello! 
-Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+Software engineer with over 4 years' experience. I've worked for innovative startups, large enterprise products and award-winning agencies. Familiar with remote and in-office roles. Always looking to take ownership of the project and deliver faster than expected. Comfortable with web development, and APIs.
 
 ## 📚 Writing
-Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UCW_4e6sUTMWHxlF06aErH9w).
+Besides developing, I also run a [Blog](https://blog.kevinkenfack.com).
 
 ## 💻 Interesting Contributions
 [![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
@@ -22,7 +22,7 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=kevinkenfack&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinkenfack&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kevinkenfack/kevinkenfack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
