@@ -7,7 +7,7 @@ Software engineer with over 4+ years experience. I've worked for innovative star
 Besides developing, I also run a [Blog](https://blog.kevinkenfack.com).
 
 ## 💻 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=theme=midnight-purple&hide_border=true&layout=compact&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
+[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/airbnb/javascript/pull/1693)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
