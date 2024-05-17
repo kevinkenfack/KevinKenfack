@@ -22,7 +22,7 @@ Besides developing, I also run a [Blog](https://blog.kevinkenfack.com).
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinkenfack&theme=theme=midnight-purple&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinkenfack&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧑🏻‍💻 Top programming languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevinkenfack&langs_count=8&theme=midnight-purple&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
